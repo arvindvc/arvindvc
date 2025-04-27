@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arvindvc
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Javascript and CSS.
-- 💞️ I’m looking to collaborate on ... Javascript devloper
+- 🌱 I’m currently developing applications and webs.
+- 💞️ I’m looking to collaborate on ...AI 
 - 📫 How to reach me ... email me- arvindvch@gmail.com
 
 <!---
